@@ -10,7 +10,7 @@ import { MovieModule } from './movie/movie.module';
       port: 3306,
       username: 'root',
       password: '',
-      database: 'galery',
+      database: 'vhd-cine',
       autoLoadEntities: true,
       synchronize: true,
     }),
